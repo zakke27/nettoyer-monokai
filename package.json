@@ -3,8 +3,9 @@
     "displayName": "Nettoyer Monokai",
     "description": "a clean monokai theme",
     "publisher": "zakkeke27",
+    "icon": "icon.png",
     "license": "MIT",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "repository": {
         "type": "git",
         "url": "https://github.com/zakke27/nettoyer-monokai.git"
