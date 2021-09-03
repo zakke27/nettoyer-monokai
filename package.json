@@ -1,0 +1,22 @@
+{
+    "name": "nettoyer-monokai",
+    "displayName": "Nettoyer Monokai",
+    "description": "a clean monokai theme",
+    "publisher": "zakkeke27",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nettoyer Monokai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nettoyer Monokai-color-theme.json"
+            }
+        ]
+    }
+}
